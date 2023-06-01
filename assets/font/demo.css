@@ -356,7 +356,7 @@
 .hljs-symbol,
 .hljs-bullet,
 .hljs-attribute {
-  color: #0086b3;
+  color: #ed827c;
 }
 
 .hljs-section,
@@ -511,7 +511,7 @@ pre[class*="language-"] {
 .token.atrule,
 .token.attr-value,
 .token.keyword {
-  color: #07a;
+  color: #ed827c;
 }
 
 .token.function,

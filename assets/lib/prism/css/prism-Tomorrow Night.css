@@ -68,7 +68,7 @@ pre[class*="language-"] {
 }
 
 .token.function-name {
-	color: #6196cc;
+	color: #ed827c;
 }
 
 .token.boolean,
@@ -103,7 +103,7 @@ pre[class*="language-"] {
 .token.operator,
 .token.entity,
 .token.url {
-	color: #67cdcc;
+	color: #ed827c;
 }
 
 .token.important,

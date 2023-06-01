@@ -103,7 +103,7 @@ pre[class*="language-"] {
 .token.constant,
 .token.symbol,
 .token.deleted {
-	color: #268bd2; /* blue */
+	color: #ed827c; /* blue */
 }
 
 .token.selector,
